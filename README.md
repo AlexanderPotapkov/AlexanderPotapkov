@@ -27,5 +27,4 @@ ___
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderPotapkov&show_icons=true&theme=dracula)
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderPotapkov&theme=blue-green)](https://github.com/AlexanderPotapkov/github-readme-stats)
