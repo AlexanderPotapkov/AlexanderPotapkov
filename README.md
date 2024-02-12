@@ -1,4 +1,4 @@
-#### Hi there! I'm Aleksandr Potapkov - Python backend developer.
+#### Hi there! I'm Aleksander Potapkov - Python backend developer.
 ___
 #### How to contact me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-potapkov/)
