@@ -1,4 +1,4 @@
-#### Hi there! I'm Aleksander Potapkov - Python backend developer.
+#### Hi there! I'm Aleksander Potapkov.
 ___
 #### How to contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Potapkov.a.p@gmail.com)
